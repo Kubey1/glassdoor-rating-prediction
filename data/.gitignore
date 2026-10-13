@@ -1,0 +1,5 @@
+   __pycache__/
+   .env
+   *API_KEY*
+   data/*.csv
+   predictions.csv
